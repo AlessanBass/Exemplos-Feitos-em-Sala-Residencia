@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aless\\Desktop\\techmed\\Techmed.Core\\Techmed.Core.csproj",
+      "projectUniqueName": "C:\\Users\\aless\\Desktop\\Exemplos_em_Sala\\Exemplos-Feitos-em-Sala-Residencia\\techmed\\Techmed.Core\\Techmed.Core.csproj",
       "projectName": "Techmed.Core",
-      "projectPath": "C:\\Users\\aless\\Desktop\\techmed\\Techmed.Core\\Techmed.Core.csproj",
+      "projectPath": "C:\\Users\\aless\\Desktop\\Exemplos_em_Sala\\Exemplos-Feitos-em-Sala-Residencia\\techmed\\Techmed.Core\\Techmed.Core.csproj",
       "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aless\\Desktop\\techmed\\Techmed.Core\\obj\\",
+      "outputPath": "C:\\Users\\aless\\Desktop\\Exemplos_em_Sala\\Exemplos-Feitos-em-Sala-Residencia\\techmed\\Techmed.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aless\\AppData\\Roaming\\NuGet\\NuGet.Config"

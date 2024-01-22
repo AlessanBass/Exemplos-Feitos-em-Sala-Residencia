@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SQ8FuIkwNewZD7yw1ZHQBrqFgYMSKyyx+pLCjbihpbl+aziRQsl80NdS+vLrlZ81+/GX9S6N1Z/9fbQIg+bUPg==",
+  "dgSpecHash": "MP+8lpS/8qC1ubs9IAQ4FhBMbU+jo9y3S8RTaVQtj/NftpjHUPw7avcGogk1S3gLNbxZ+N32O0gKjfY2RVJHpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aless\\Desktop\\techmed\\Techmed.Infrastructure\\Techmed.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\aless\\Desktop\\Exemplos_em_Sala\\Exemplos-Feitos-em-Sala-Residencia\\techmed\\Techmed.Infrastructure\\Techmed.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aless\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\aless\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
